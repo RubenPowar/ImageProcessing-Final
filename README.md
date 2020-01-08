@@ -28,5 +28,4 @@ For convenience their is a bash script __run.sh__ in the main directory as well.
 
 ## Github repository
 
-There is also a Github repository which contains all needed files. We used it to work on the detector. If you prefer it you can download or clone it from https://github.com/darkcookie298/ImageProcessing.
-Note: It was not published before the deadline for this project at Monday Dec 3rd at 17:59.
+-Authors: Ruben Powar (https://github.com/RubenPowar) Florian Bauer (https://github.com/darkcookie298)
